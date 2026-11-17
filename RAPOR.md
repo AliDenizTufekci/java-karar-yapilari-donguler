@@ -1,6 +1,6 @@
 # Rapor
 
-**Ad Soyad:**
+**Ad Soyad:Ali Deniz Tüfekci**
 **Numara:**
 
 Her soru için en az 2 test yazın.
